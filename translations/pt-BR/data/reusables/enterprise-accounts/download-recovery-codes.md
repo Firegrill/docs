@@ -1,3 +1,0 @@
-1. Para garantir que você ainda pode acessar a sua empresa no caso de o seu provedor de identidade ficar indisponível no futuro clique em **Download**, **Imprimir** ou **Copiar** para salvar seus códigos de recuperação. For more information, see "[Downloading your enterprise account's single sign-on recovery codes](/admin/identity-and-access-management/managing-recovery-codes-for-your-enterprise/downloading-your-enterprise-accounts-single-sign-on-recovery-codes)."
-
-   ![Captura de tela dos botões para fazer o download, imprimir ou copiar seus códigos de recuperação](/assets/images/help/saml/saml_recovery_code_options.png)
